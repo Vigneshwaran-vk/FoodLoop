@@ -154,4 +154,4 @@ This project can be released under the MIT License. Add a `LICENSE` file to the 
 
 ---
 
-**FoodLoop — Every Meal Matters. Every Donation Counts.**
+**FoodLoop - Every Meal Matters. Every Donation Counts.**
