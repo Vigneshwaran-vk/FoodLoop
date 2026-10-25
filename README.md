@@ -1,4 +1,4 @@
-# FoodLoop — Smart Food Surplus Redistribution
+# FoodLoop - Smart Food Surplus Redistribution
 
 **Turning Surplus Food into a Shared Resource, Not Waste.**
 
